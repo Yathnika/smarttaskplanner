@@ -1,4 +1,6 @@
-https://github.com/Yathnika/smarttaskplanner/blob/main/WhatsApp%20Image%202025-10-15%20at%2002.38.34_d238afe5.jpg
+<p align="center">
+    <img src="https://github.com/Yathnika/smarttaskplanner/blob/main/WhatsApp%20Image%202025-10-15%20at%2002.38.34_d238afe5.jpg?raw=true" alt="Main Banner" width="100%">
+</p>
 # 🧠 Smart Task Planner AI
 
 An intelligent web application that uses Google's Gemini AI to break down high-level goals into a detailed, actionable project plan.
@@ -68,4 +70,5 @@ The application exposes the following API endpoints:
 * **POST /create-plan**: Accepts a JSON object {"goal": "your goal here"} and returns the generated plan.
 * **GET /plans**: (Browser only) Renders a page listing all saved plans.
 * **GET /plans/<id>**: Returns the full JSON data for a single saved plan by its ID.
+
 
